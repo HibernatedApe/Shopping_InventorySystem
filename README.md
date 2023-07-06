@@ -5,22 +5,22 @@
 Source code (SC) is found at the folder named "src" -> "Project Package".    
 Main Source Code: Main_Frame.java    
 
-ADMIN - Log In View    
+### Log In View    
 ![](LogInView.png)
 
-ADMIN - Inventory View    
+### ADMIN - Inventory View    
 ![](Admin_InventoryView.png)
     
-ADMIN - Sales View    
+### ADMIN - Sales View    
 ![](Admin_SalesView.png)
     
-ADMIN - Sales View with Receipt    
+### ADMIN - Sales View with Receipt    
 ![](Admin_SalesWithReceiptView.png)
     
-USER - Items View    
+### USER - Items View    
 ![](User_ItemsView.png)
 
-USER - Main View    
+### USER - Main View    
 ![](User_MainView.png)
     
 Programmed by:
