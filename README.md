@@ -2,7 +2,7 @@
 ### Language: Java
 ### IDE: Netbeans
 
-Source code (SC) is found at the folder named "src" -> "Project Package".
+Source code (SC) is found at the folder named "src" -> "Project Package".    
 Main Source Code: Main_Frame.java    
 
 ADMIN - Log In View    
